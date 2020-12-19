@@ -5,4 +5,5 @@ contact = {
 }
 for(key in contact){
     // Code goes here
+        console.log(key +':'+ contact[key])
 }

@@ -6,8 +6,9 @@ let people = [
 	{ name: 'Steve', birthDate: new Date(2003,4,24) }
 ];
 
-let simplifier = function(person){
-	return person.name;
-};
+let simplifier = function(people){
+    
+    return ("'Hello, my name is "+people.name+"and I am "+people.birthDate+" years old'")};
 
 console.log(people.map(simplifier));
+

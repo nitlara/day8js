@@ -4,3 +4,6 @@ myArray.forEach(function(item, index, arr){
     // The value of the item is
     console.log(item);
 });
+
+
+//-------------------------No Resuelto -------------------------

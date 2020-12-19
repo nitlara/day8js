@@ -4,6 +4,9 @@ let hello = [];
 for(let index = 0; index < myArray.length; index++){
     let element = myArray[index];
     // MAGIC HAPPENS HERE
+    if (index = Object)
+        {hello.push = index}
 }
 
 console.log(hello)
+//-------------------------No Resuelto -------------------------
